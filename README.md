@@ -100,8 +100,3 @@ LIMITATIONS & NEXT STEPS
   - Seniority prediction from job descriptions
   - Interactive dashboard (Power BI or Streamlit)
 
-------------------------------------------------------------
-
-AUTHOR
-Med Amine Gnichi
-Portfolio Project
